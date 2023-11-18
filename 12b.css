@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+}
+.light-pink{
+    background-color: lightpink;
+}
+.light-blue{
+    background-color: lightblue;
+}
+#item1,#item3{
+    width: 75px;
+}
+#item2{
+    flex:1;
+}
+
